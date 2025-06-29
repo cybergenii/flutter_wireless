@@ -616,7 +616,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 📧 **Email**: your.email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/flutter_wireless/issues)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/cybergenii/flutter_wireless/issues)
 - 💬 **Discord**: [Join our community](https://discord.gg/your-invite)
 - 📖 **Documentation**: [Full API docs](https://pub.dev/documentation/flutter_wireless/)
 
