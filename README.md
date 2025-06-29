@@ -623,7 +623,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/derekzyl">Derek Og</a></p>
   <p>
     <a href="https://pub.dev/packages/flutter_wireless">
       <img src="https://img.shields.io/pub/v/flutter_wireless.svg" alt="pub package">
@@ -631,8 +631,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <a href="https://opensource.org/licenses/MIT">
       <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
     </a>
-    <a href="https://github.com/yourusername/flutter_wireless/stargazers">
-      <img src="https://img.shields.io/github/stars/yourusername/flutter_wireless.svg?style=social" alt="GitHub stars">
+    <a href="https://github.com/cybergenii/flutter_wireless/stargazers">
+      <img src="https://img.shields.io/github/stars/cybergenii/flutter_wireless.svg?style=social" alt="GitHub stars">
     </a>
   </p>
 </div>
